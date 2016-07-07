@@ -1,0 +1,12 @@
+CMakeCache.txt
+qt/Makefile
+CMakeFiles/
+cmake_install.cmake
+cpp_plazza.sublime-project
+*.lst
+*.o
+*.eep
+*.lss
+*.map
+*.sym
+qt/Makefile
